@@ -1,0 +1,14 @@
+h1 {
+    background-color: olivedrab;
+    font-size: medium;
+    font-weight: 100;
+}
+h2 {
+    background-color: chartreuse;
+    font-style: italic;
+}
+
+header {
+    background-color: green;
+    font-style: inherit;
+}
